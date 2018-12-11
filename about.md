@@ -10,4 +10,5 @@ I am currently a Sr. Software Engineer at <a href="https://www.build.com" target
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## Resume
-<iframe src="https://drive.google.com/viewerng/viewer?pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="400px" height="300px"  />
+<iframe src="https://drive.google.com/file/d/1HAjN5-KgUkT6mT9_5LHdVi0W41MVpH94/view?usp=sharing" width="640" height="480"></iframe>
+
