@@ -10,5 +10,5 @@ I am currently a Sr. Software Engineer at <a href="https://www.build.com" target
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## Resume
-[Resume Here using google --->Click me<---](https://drive.google.com/file/d/1HAjN5-KgUkT6mT9_5LHdVi0W41MVpH94/preview?usp=drivesdk)
+[Resume here using google drive  --->Click me<---](https://drive.google.com/file/d/1HAjN5-KgUkT6mT9_5LHdVi0W41MVpH94/preview?usp=drivesdk)
 
