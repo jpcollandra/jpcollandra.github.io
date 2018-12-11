@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 <p>
-I am currently a Sr. Software Engineer at <a href="https://www.build.com" target="_blank">Build.com</a>. I consider myself as a full-stack developer and equally excited working on both ends. I like complex problem sovling and coming up with an efficient solution.I am passionate about learning new technologies and implementing them. 
+Hello, my name is John. I am a developer and student at UNF. I have passion for data science and full stack development. I am currently based in Jacksonville,FL.
+
+I have a diverse set of skills, ranging from frontend HTML, CSS, Javascript to backend Java, Python, and C.
 </p>
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
