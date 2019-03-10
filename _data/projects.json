@@ -1,10 +1,10 @@
 [
 	{
-		"slug": "etrucking-soft",
-		"name": "Etrucking Software",
+		"slug": "Spectral Partitioning",
+		"name": "Spectral Partitioning",
 		"image": "etruckingsoft.png",
 		"url": "http://etruckingsoft.com",
-		"date": "Jan 2014",
+		"date": "November 2018",
 		"tags": ["Angular JS", "Nodejs", "HTML", "API"]
 	},
 	{
