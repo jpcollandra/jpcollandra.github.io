@@ -5,47 +5,41 @@
 		"image": "etruckingsoft.png",
 		"url": "http://etruckingsoft.com",
 		"date": "November 2018",
-		"tags": ["Angular JS", "Nodejs", "HTML", "API", "Math"]
+		"tags": ["Math Projects", "Machine Learning"]
 	},
 	{
-		"name": "Easy Links",
+		"name": "Java RPG",
 		"image": "easy-links.jpg",
-		"date": "May 2017",
+		"date": "August 2018",
 		"description": "This is internal chrome extension, that was developed for my company to provide quick navigation with internal tools.",
-		"tags": ["Extension","Javascript"]
+		"tags": ["Java", "Game Development"]
 	},
 	{
-		"name": "Live Band Club",
+		"name": "Blockchain",
 		"image": "livebandclub.png",
 		"url": "http://livebandclub.com",
-		"date": "June 2016",
-		"tags": ["HTML","Javascript","PHP"]
+		"date": "November 2018",
+		"tags": ["Node.js"]
 	},
 	{
-		"name": "Pavement Preservation Treatment Database",
+		"name": "Negnan",
 		"image": "pp_logo.png",
 		"date": "Oct 2015",
 		"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
-		"tags": ["PHP","HTML"]
+		"tags": ["HTML", "CSS", "Django", "React", "Javascript", "C", "Python", "Machine Learning"]
 	},
 	{
-		"name": "Street Saver Certification Program",
+		"name": "Finance ML Algorithm",
 		"image": "streetsaver.png",
 		"date": "Oct 2015",
 		"url": "http://ttc.ecst.csuchico.edu/mtcrcp/login/index.php",
-		"tags": ["PHP","HTML","CMS"]
+		"tags": ["Python", "Machine Learning"]
 	},
 	{
-		"name": "Tire Derived Aggregate",
+		"name": "Hand writing recognition",
 		"image": "tda.png",
 		"date": "Oct 2016",
 		"url": "http://ttc.ecst.csuchico.edu/TDAtc/index.php",
-		"tags": ["PHP","HTML","CMS"]
-	},{
-		"name": "JM Watts Chico",
-		"image": "jmwattschico.png",
-		"url": "http://jmwattschico.com/",
-		"date": "May 2017",
-		"tags": ["HTML","CSS","Javascript"]
+		"tags": ["Python","Machine Learning"]
 	}
 ]
