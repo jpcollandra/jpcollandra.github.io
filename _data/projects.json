@@ -3,7 +3,6 @@
 		"slug": "Spectral Partitioning",
 		"name": "Spectral Partitioning",
 		"image": "laplacian.png",
-		"url": "http://etruckingsoft.com",
 		"date": "November 2018",
 		"tags": ["Math Projects", "Machine Learning"]
 	},
@@ -16,8 +15,8 @@
 	},
 	{
 		"name": "Blockchain",
-		"image": "livebandclub.png",
-		"url": "http://livebandclub.com",
+		"image": "blockchain.png",
+		"url": "https://github.com/jpcollandra/simplejsblockchain",
 		"date": "November 2018",
 		"tags": ["Node.js"]
 	},
@@ -25,21 +24,21 @@
 		"name": "Negnan",
 		"image": "pp_logo.png",
 		"date": "Oct 2015",
-		"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
+		"url": "https://github.com/jpcollandra/negnan",
 		"tags": ["HTML", "CSS", "Django", "React", "Javascript", "C", "Python", "Machine Learning"]
 	},
 	{
 		"name": "Finance ML Algorithm",
 		"image": "streetsaver.png",
 		"date": "Oct 2015",
-		"url": "http://ttc.ecst.csuchico.edu/mtcrcp/login/index.php",
+		"url": "https://github.com/jpcollandra?tab=repositories",
 		"tags": ["Python", "Machine Learning"]
 	},
 	{
 		"name": "Hand writing recognition",
 		"image": "tda.png",
 		"date": "Oct 2016",
-		"url": "http://ttc.ecst.csuchico.edu/TDAtc/index.php",
+		"url": "https://github.com/jpcollandra?tab=repositories",
 		"tags": ["Python","Machine Learning"]
 	}
 ]
